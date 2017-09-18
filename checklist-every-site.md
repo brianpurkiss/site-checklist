@@ -1,6 +1,8 @@
 # General
 
 * 404 page
+* Pick www or non-www and force a redirect
+* Add [Humans.txt](http://humanstxt.org/) to site
 
 
 # UI
@@ -11,6 +13,9 @@
 	* <p>
 	* <ul>/<ol>
 	* <blockquote>
+* Print friendly CSS
+* [Check for enough color contrast](http://www.checkmycolours.com/)
+* [Check for accessibility](https://achecker.ca/checker/index.php)
 
 
 # SEO
@@ -21,6 +26,7 @@
 * Sitemap has been created
 * Robots.txt file has been created
 * Site is set to be crawled by the search engines
+* [Social oriented Open Graph Protocal](http://ogp.me/) (included in Yoast SEO)
 
 
 # Site Speed
@@ -51,3 +57,4 @@ deny from all
 define('DISALLOW_FILE_EDIT', true);`
 * Set permalinks
 * Set site timezone
+* Install [Yoast SEO](https://yoast.com/wordpress/plugins/seo/)
