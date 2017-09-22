@@ -16,16 +16,20 @@
 	* Test on large smartphone
 	* Test on small smartphone
 * Ensure social network links are correct
+* Credit link in the footer or on the about page
 
 
 # Just before going live and while going live
 
 * Ensure all plugins/modules/etc are up to date
-* Ensure contact forms function and are sent to the client's email address
+* Ensure contact forms function and are sent to the client's email address and submit correctly
 * Ensure Newsletter signup forms function
 * Backup site theme, database, etc
 * Run a [broken link checker](https://validator.w3.org/checklink)
-* **Have someone else double check everything**
+* If payments are taken, verify test mode is turned off and actual payments go through
+* Ensure Google Analytics has been installed
+* Ensure site is set to allow search engine crawling, be it settings in the CMS or removal of rel="noindex" from header
+* **Have someone else double check all major components**
 
 
 # After Live
@@ -33,9 +37,3 @@
 * Ensure plugin/module/etc licenses are activated on the new domain
 * Setup site backups if the host does not provide them - [Vaultpress](https://vaultpress.com/) is great for WordPress sites
 * Ensure 301 redirects for all old site pages
-* Ensure Google Analytics has been installed
-
-
-# WordPress Specific
-
-* Ensure site is set to allow search engine crawling
