@@ -9,10 +9,10 @@
 
 * Favicon
 * Basic elements have styles
-	* <a>
-	* <p>
-	* <ul>/<ol>
-	* <blockquote>
+	* `<a>`
+	* `<p>`
+	* `<ul>/<ol>`
+	* `<blockquote>`
 * Print friendly CSS
 * [Check for enough color contrast](http://www.checkmycolours.com/)
 * [Check for accessibility](https://achecker.ca/checker/index.php)
@@ -39,6 +39,9 @@
 
 # WordPress Specific
 
+* Check the Site Title and Site Tagline
+* Update the general setting's email address and Timezone
+* Update WordPress permalinks
 * The custom theme's [screenshot.png](https://codex.wordpress.org/Theme_Development#Screenshot) has been set
 * Install the Brute Force Login Protection plugin
 * Add the following to wp-config.php outside of the "# BEGIN WordPress" and "# End WordPress."
