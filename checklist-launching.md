@@ -22,13 +22,14 @@
 # Just before going live and while going live
 
 * Ensure all plugins/modules/etc are up to date
-* Ensure contact forms function and are sent to the client's email address and submit correctly
+* Ensure contact forms function and are sent to the client's email address and submit complete information
 * Ensure Newsletter signup forms function
 * Backup site theme, database, etc
 * Run a [broken link checker](https://validator.w3.org/checklink)
 * If payments are taken, verify test mode is turned off and actual payments go through
 * Ensure Google Analytics has been installed
-* Ensure site is set to allow search engine crawling, be it settings in the CMS or removal of rel="noindex" from header
+* Ensure site is set to allow search engine crawling, be it settings in the CMS or removal of rel="noindex" from header or changing robots.txt
+* Enable user registration if applicable, like on an eCommerce website
 * **Have someone else double check all major components**
 
 
@@ -37,3 +38,4 @@
 * Ensure plugin/module/etc licenses are activated on the new domain
 * Setup site backups if the host does not provide them - [Vaultpress](https://vaultpress.com/) is great for WordPress sites
 * Ensure 301 redirects for all old site pages
+* Check SSL (if applicable)

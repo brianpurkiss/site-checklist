@@ -1,4 +1,6 @@
-This is a Work In Progress list of todo items that need to be completed on every website.
+This is a list of todo items that need to be completed on every website. It is intended to help prevent developers from forgetting about the million and one things that need to be customized for every website. 
+
+Such a list is never complete, feel free to suggest additions.
 
 
 # [Checklist for every site.](checklist-every-site.md)
@@ -16,3 +18,6 @@ This is a Work In Progress list of todo items that need to be completed on every
 * Just before going live and while going live
 * After live
 * WordPress specific
+
+
+# [Things needed from clients.](need-from-client.md)
