@@ -62,3 +62,4 @@ define('DISALLOW_FILE_EDIT', true);`
 * Set permalinks
 * Set site timezone
 * Install [Yoast SEO](https://yoast.com/wordpress/plugins/seo/)
+* Set Authentication Unique Keys and Salts: https://api.wordpress.org/secret-key/1.1/salt/
