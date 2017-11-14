@@ -30,14 +30,15 @@
 * Ensure site is set to allow search engine crawling, be it settings in the CMS or removal of rel="noindex" from header or changing robots.txt
 * Ensure all site generated emails are sending properly, especially emails concerning payments
 * Enable user registration if applicable, like on an eCommerce website
-* Ensure www forwards to non-www (or vice versa)
 * **Have someone else double check all major components**
 
 
 # After Live
 
+* Setup SSL Certificate (if applicable)
+* If site has a SSL Certificate, ensure http forwards to https correctly
+* Ensure www forwards to non-www (or vice versa)
 * Ensure plugin/module/etc licenses are activated on the new domain
 * Setup site backups if the host does not provide them - [Vaultpress](https://vaultpress.com/) is great for WordPress sites
 * Ensure 301 redirects for all old site pages
-* Check SSL (if applicable)
 * Give clients their login information
