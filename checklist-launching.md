@@ -21,6 +21,7 @@
 
 # Just before going live & while going live
 
+* Recompile all CSS & JS so it is compressed and consolidated
 * Ensure all plugins/modules/etc are up to date
 * Ensure contact forms and newsletter signup forms function and are sent to the client's email address and submit complete information
 * Backup site theme, database, etc
