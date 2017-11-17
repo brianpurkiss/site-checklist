@@ -42,4 +42,4 @@
 * Ensure plugin/module/etc licenses are activated on the new domain
 * Setup site backups if the host does not provide them - [Vaultpress](https://vaultpress.com/) is great for WordPress sites
 * Ensure 301 redirects for all old site pages
-* Give clients their login information
+* Give clients all relevent login information and make sure all created accounts for 3rd party services have been switched over to the client's email
