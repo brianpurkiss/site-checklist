@@ -28,6 +28,7 @@
 * Run a [broken link checker](https://validator.w3.org/checklink)
 * If payments are taken, verify test mode is turned off and actual payments go through
 * Ensure Google Analytics has been installed
+	* Does the client need additional Analytics tracking? Such as eCommerce?
 * Ensure site is set to allow search engine crawling, be it settings in the CMS or removal of rel="noindex" from header or changing robots.txt
 * Ensure all site generated emails are sending properly, especially emails concerning payments
 * Enable user registration if applicable, like on an eCommerce website
