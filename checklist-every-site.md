@@ -35,6 +35,7 @@
 * Images are scaled to the ideal size and run through a compressor
 * CSS is compressed and consolidated
 * Javascript is compressed and consolidated
+* Run [web.dev](https://web.dev/) scan and fix accordingly
 
 
 # WordPress Specific
