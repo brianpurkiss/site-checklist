@@ -17,6 +17,7 @@
 * [Check for enough color contrast](http://www.checkmycolours.com/)
 * [Check for accessibility](https://achecker.ca/checker/index.php)
 * Do webfonts load properly on a computer that doesn't have the font installed locally?
+* Test site in "Read Mode" on Firefox and iOS
 
 
 # SEO
