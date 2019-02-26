@@ -44,3 +44,4 @@
 * Setup site backups if the host does not provide them - [Vaultpress](https://vaultpress.com/) is great for WordPress sites
 * Ensure 301 redirects for all old site pages
 * Give clients all relevent login information and make sure all created accounts for 3rd party services have been switched over to the client's email
+* If there's a site search, [setup search tracking in Google Analytics](https://www.monsterinsights.com/how-to-set-up-site-search-tracking-in-wordpress-step-by-step/)
